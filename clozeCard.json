@@ -1,0 +1,26 @@
+[
+  {
+    "partial": "Thom Yorke is the frontman of Radiohead.",
+    "cloze": "Thom Yorke"
+  },
+  {
+    "partial": "Josh Homme is the frontman of Queens of the Stone Age.",
+    "cloze": "Josh Homme"
+  },
+  {
+    "partial": "Matt Bellamy is the frontman of Muse.",
+    "cloze": "Matt Bellamy"
+  },
+  {
+    "partial": "David Gilmour is the frontman of Pink Floyd.",
+    "cloze": "David Gilmour"
+  },
+  {
+    "partial": "Kurt Cobain was the frontman of Nirvana.",
+    "cloze": "Kurt Cobain"
+  },
+  {
+    "partial": "Maynard James Keenan is the frontman of Tool.",
+    "cloze": "Maynard James Keenan"
+  }
+]
